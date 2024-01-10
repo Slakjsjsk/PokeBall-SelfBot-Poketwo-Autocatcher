@@ -1,11 +1,11 @@
 {
-   "token": "",
-   "command_prefix": "P^",
+   "token": "1193734119000125554",
+   "command_prefix": "@^",
    "priority": [
       "Groudon",
-	  "Mew",
-      "Machop",
-      "Staryu"
+	  "Mewtwo",
+      "beldum",
+      "lunala"
    ],
    "avoid": [],
    "catch_rate": 90,
